@@ -1,2 +1,3 @@
-### Nice to meet everyone! I work as a Java Developer. Have a great day.
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=neuma573)
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@neuma573)
